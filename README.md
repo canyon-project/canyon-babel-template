@@ -1,5 +1,23 @@
-<h1 align="center" id="title">React Webpack Setup</h1>
+# Canyon Babel Template
 
-<p align="center"><img src="https://socialify.git.ci/saurabhnative/react30_project23_react_using_webpack/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+This is a template for creating documentation with [Canyon](https://nextra.site).
 
-<p id="description">Demo project to setup react from scratch using webpack and babel.</p>
+[**Live Demo →**](https://canyon-babel-template.vercel.app)
+
+[![](.github/screenshot.png)](https://canyon-babel-template.vercel.app)
+
+## Quick Start
+
+Click the button to clone this repository and deploy it on Vercel:
+
+[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fcanyon-babel-template&showOptionalTeamCreation=false)
+
+## Local Development
+
+First, run `pnpm i` to install the dependencies.
+
+Then, run `pnpm dev` to start the development server and visit localhost:3000.
+
+## License
+
+This project is licensed under the MIT License.
